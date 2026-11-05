@@ -23,8 +23,8 @@ Transformo bases extraídas de ERP em indicadores, dashboards e ferramentas que 
 
 | Projeto | O que resolve |
 |---|---|
+| [contract-kpi-dashboard](https://github.com/OlandaMatheus/contract-kpi-dashboard) ([ver demo](https://olandamatheus.github.io/contract-kpi-dashboard/)) | Prazo x consumo de contratos: identifica quem vai estourar o saldo antes do fim da vigência |
 | [powerquery-patterns](https://github.com/OlandaMatheus/powerquery-patterns) | Funções M reutilizáveis para tratar dados exportados do SAP (datas, números, códigos de material) |
-| *Em breve:* contract-kpi-dashboard | Indicadores de contratos com base sintética |
 | *Em breve:* replenishment-suggester | Sugestão de abastecimento com Python + DuckDB |
 
 > Todos os projetos usam **dados fictícios** e são recriações independentes, feitas para fins de estudo e demonstração.
