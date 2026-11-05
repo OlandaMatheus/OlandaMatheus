@@ -25,8 +25,8 @@ Analista de dados em **gestão de contratos** e **controladoria**. Transformo ex
 | Projeto | O que resolve |
 |---|---|
 | [contract-kpi-dashboard](https://github.com/OlandaMatheus/contract-kpi-dashboard) ([ver demo](https://olandamatheus.github.io/contract-kpi-dashboard/)) | Prazo x consumo de contratos: identifica quais vão estourar o saldo antes do fim da vigência |
+| [replenishment-suggester](https://github.com/OlandaMatheus/replenishment-suggester) ([ver demo](https://olandamatheus.github.io/replenishment-suggester/)) | Regras em SQL (DuckDB) que decidem, material a material, se a carteira é atendida com estoque, transferência, pedido de compra em andamento ou compra nova |
 | [powerquery-patterns](https://github.com/OlandaMatheus/powerquery-patterns) | Funções M reutilizáveis para tratar dados exportados do SAP (datas, números, códigos de material) |
-| *Em breve:* replenishment-suggester | Sugestão de abastecimento com Python + DuckDB |
 
 > Todos os projetos usam **dados fictícios** e são recriações independentes, feitas para estudo e demonstração.
 
